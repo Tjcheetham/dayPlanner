@@ -8,9 +8,9 @@ JavaScript - [JQuery](https://code.jquery.com/jquery-3.3.1.slim.min.js) - [Boots
 
 ### Screenshots
 
-![Image](images\2019-10-24.png)
+images\2019-10-24.png
 
-![Image](images\2019-10-24 (1).png)
+images\2019-10-24 (1).png
 
 ### Link
 Check it out!
