@@ -4,7 +4,13 @@
 I created a day planner so I can add important events in a visual application so I can manage my time effectively.
 
 ### Technologies-Libraries
-JQuery - [Bootstrap](https://getbootstrap.com/) - CSS - HTML
+JavaScript - [JQuery](https://code.jquery.com/jquery-3.3.1.slim.min.js) - [Bootstrap](https://getbootstrap.com/) - CSS - HTML
+
+### Screenshots
+
+![Image](images\2019-10-24.png)
+
+![Image](images\2019-10-24 (1).png)
 
 ### Link
 Check it out!
